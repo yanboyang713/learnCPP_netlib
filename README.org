@@ -1,0 +1,2 @@
+* compile http client
+g++ http_client.cpp -lcppnetlib-client-connections -lpthread -lcppnetlib-uri
